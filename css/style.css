@@ -123,3 +123,53 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+/* defined css rule declaration */
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(240, 235, 206);
+}
+
+.container {
+  width: 90vw;
+  min-height: 100vh;
+  margin: auto;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-gap-1 {
+  gap: 1em;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.h1 {
+  line-height: 1.5em;
+  font-size: 3em;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: -3px;
+  color: rgb(57, 81, 68);
+}
+
+.link {
+  display: inline-block;
+  line-height: 1.75em;
+  font-size: 1em;
+  font-weight: normal;
+  text-decoration: none;
+  color: rgb(170, 139, 86);
+}
+
+.text-center {
+  text-align: center;
+}
