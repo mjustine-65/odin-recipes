@@ -68,7 +68,8 @@
   flex: 1 1 24rem;
 }
 
-.dish-img {
+.dish-img,
+.dish-img-2 {
   padding: 33.33% 0;
 }
 
@@ -166,6 +167,14 @@ body {
   background-color: #fff;
 }
 
+.dish-img-2 {
+  background-image: url("https://www.sidechef.com/recipe/1caab209-0e0f-4472-8ee1-5bfac9aa8600.png?d=1408x1120");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #fff;
+}
+
 .section-ings {
   color: var(--clr-secondary);
 }
@@ -198,7 +207,8 @@ body {
 }
 
 @media only screen and (min-width: 769px) {
-  .dish-img {
+  .dish-img,
+  .dish-img-2 {
     padding: 16.66% 0;
   }
 }
