@@ -1,5 +1,5 @@
-# odin-recipes
-__Description:__ A simple static HTML and CSS project about food recipes I'm interested in. Through this project, I will demonstrate how I structure web pages, and put some styling (mobile first design), and validate them through an HTML validator to ensure that they are within the current standards and no errors.
+# Project: Recipes
+__Description:__ A simple recipe website to practice my HTML knowledge. To add to the challenge, the web pages will be semantically structured. Once done, the web pages will then be validated through the HTML validation tools below.
 
 ## HTML Validation Tools  
 * [W3C Markup Validation Service](https://validator.w3.org/#validate_by_uri)
